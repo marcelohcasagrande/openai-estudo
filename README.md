@@ -7,13 +7,13 @@
 **Windows:**
 ```bash
 python -m venv openai_estudo
-curso_1_openai\Scripts\activate
+openai_estudo\Scripts\activate
 ```
 
 **Mac/Linux:**
 ```bash
 python3 -m venv openai_estudo
-source curso_1_openai/bin/activate
+source openai_estudo/bin/activate
 ```
 
 ### Instalação das Bibliotecas
