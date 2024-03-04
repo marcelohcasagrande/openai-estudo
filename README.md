@@ -1,4 +1,4 @@
-# OpenAI: Curso 1
+# OpenAI: Exemplos para Aprendizagem
 
 ## ⚙️ Configuração do Ambiente
 
@@ -6,13 +6,13 @@
 
 **Windows:**
 ```bash
-python -m venv curso_1_openai
+python -m venv openai_estudo
 curso_1_openai\Scripts\activate
 ```
 
 **Mac/Linux:**
 ```bash
-python3 -m venv curso_1_openai
+python3 -m venv openai_estudo
 source curso_1_openai/bin/activate
 ```
 
